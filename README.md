@@ -1,5 +1,9 @@
 # posts-data
 
+## v.1.004.00
+
+- Se añadió los archivos: *datos-clientes.xlsx* y *op_aritméticas.xlsx*
+
 ## v.1.003.00
 
 - Se añadió el archivo: *Pokemon.xlsx*
