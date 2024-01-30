@@ -1,5 +1,9 @@
 # posts-data
 
+## v.1.005.00
+
+- Se añadió el archivo *LA.csv*.
+
 ## v.1.004.00
 
 - Se añadió los archivos: *datos-clientes.xlsx* y *op_aritméticas.xlsx*
